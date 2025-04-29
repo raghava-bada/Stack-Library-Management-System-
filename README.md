@@ -5,24 +5,24 @@ This is a simple Library Management System project built using Python. It runs i
 This project is beginner-friendly. Perfect for those who have just learned Python and want to build something useful. 
 
 ## Python Modules Used
-csv
-datetime
-os
-pwinput (external)
+1 csv
+2 datetime
+3 os
+4 pwinput (external)
 
 
 ## Librarian Functionalities
-Register & Login 
-View Books 
-Add Book
-Update Book
-Remove Book
+1 Register & Login 
+2 View Books 
+3 Add Book
+4 Update Book
+5 Remove Book
 
 
 ## Student Functionalities
-Register & Login
-De-register
-View Books
-Borrow Books
-Return Books
-Check Fines
+1 Register & Login
+2 De-register
+3 View Books
+4 Borrow Books
+5 Return Books
+6 Check Fines
